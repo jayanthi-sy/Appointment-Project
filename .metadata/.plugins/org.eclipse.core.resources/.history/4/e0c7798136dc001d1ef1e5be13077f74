@@ -1,0 +1,31 @@
+Hello data
+
+<style>
+
+
+
+form{
+
+background-color:red;
+width:200px;
+height:250px;
+border-style:solid;
+border:colour:blue;
+padding:10px;
+}
+
+</style>
+<br>
+
+<div >
+
+<form action="/login" method="post">  
+<div >Name:<input type="text" name="name"/><br/><br/>  </div >
+Password:<input type="password" name="password"/><br/><br/>  
+<input type="submit" value="login"/> 
+<input type="submit" value="login"/> 
+
+</form>  
+</div >
+
+
